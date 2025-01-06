@@ -1,7 +1,6 @@
 import React from "react";
 import GoogleMap from "./GoogleMap";
-import GoogleMapWithSearch from "./GoogleMapWithSearch";
-import MapComponent from "./GoogleMapWithSearch"; // Đường dẫn tới file GoogleMap
+
 
 const App = () => {
     return (
